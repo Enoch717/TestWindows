@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildManifest xmlns="http://schemas.microsoft.com/GenDox/BuildManifest/2015">
   <Machines>
-    <Machine Id="1">GenDoxBuild</Machine>
+    <Machine Id="1">GenDoxBuilddd</Machine>
     <Machine Id="2">PROTOGEN01</Machine>
     <Machine Id="3">GENDOXDEVBLD01</Machine>
   </Machines>
