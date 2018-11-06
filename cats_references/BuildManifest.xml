@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BuildManifest xmlns="http://schemas.microsoft.com/GenDox/BuildManifest/2015">
+<BuildManifest xmlns="http://schemas.microsoft.com/GenDox/BuildManifest/2055">
   <Machines>
     <Machine Id="1">GenDoxBuild</Machine>
     <Machine Id="2">PROTOGEN01</Machine>
