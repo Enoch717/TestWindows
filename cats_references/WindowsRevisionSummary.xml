@@ -3424,6 +3424,7 @@
       <File Name="[MS-ADTS]-180912.pdf" Type="PDF" />
       <File Name="[MS-ADTS]-180912.docx" Type="DOCX" />
       <File Name="[MS-ADTS]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-ADTS]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-AIPS">
@@ -4714,6 +4715,18 @@
       <File Name="[MS-CCROD]-180629-captureALL.zip" Type="Capture" />
       <File Name="[MS-CCROD]-180629-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="6.0" Class="Major">
+      <File Name="[MS-CCROD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-CCROD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-CCROD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-CCROD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-14" Version="6.0" Class="None">
+      <File Name="[MS-CCROD]-181114.pdf" Type="PDF" />
+      <File Name="[MS-CCROD]-181114.docx" Type="DOCX" />
+      <File Name="[MS-CCROD]-181114-captureALL.zip" Type="Capture" />
+      <File Name="[MS-CCROD]-181114-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-CDP">
     <Revision Date="2016-07-14" Version="1.0" Class="New">
@@ -4952,6 +4965,12 @@
       <File Name="[MS-CERSOD]-180629-captureALL.zip" Type="Capture" />
       <File Name="[MS-CERSOD]-180629-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="9.0" Class="Major">
+      <File Name="[MS-CERSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-CERSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-CERSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-CERSOD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-CFB">
     <Revision Date="2010-07-16" Version="1.0" Class="New" />
@@ -5182,6 +5201,7 @@
       <File Name="[MS-CIFS]-180912.pdf" Type="PDF" />
       <File Name="[MS-CIFS]-180912.docx" Type="DOCX" />
       <File Name="[MS-CIFS]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-CIFS]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-CMOM">
@@ -6743,6 +6763,7 @@
       <File Name="[MS-DFSC]-180912.pdf" Type="PDF" />
       <File Name="[MS-DFSC]-180912.docx" Type="DOCX" />
       <File Name="[MS-DFSC]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-DFSC]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-DFSNM">
@@ -7841,6 +7862,11 @@
       <File Name="[MS-DOCO]-171215.pdf" Type="PDF" />
       <File Name="[MS-DOCO]-171215.docx" Type="DOCX" />
       <File Name="[MS-DOCO]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="15.0" Class="Major">
+      <File Name="[MS-DOCO]-181105.pdf" Type="PDF" />
+      <File Name="[MS-DOCO]-181105.docx" Type="DOCX" />
+      <File Name="[MS-DOCO]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-DPDX">
@@ -9858,6 +9884,7 @@
       <File Name="[MS-EMFPLUS]-180912.pdf" Type="PDF" />
       <File Name="[MS-EMFPLUS]-180912.docx" Type="DOCX" />
       <File Name="[MS-EMFPLUS]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-EMFPLUS]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-EMFSPOOL">
@@ -10286,6 +10313,12 @@
       <File Name="[MS-FASOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-FASOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-FASOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="7.0" Class="Major">
+      <File Name="[MS-FASOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-FASOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-FASOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-FASOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-FASP">
@@ -10803,6 +10836,7 @@
       <File Name="[MS-FSA]-180912.pdf" Type="PDF" />
       <File Name="[MS-FSA]-180912.docx" Type="DOCX" />
       <File Name="[MS-FSA]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-FSA]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-FSCC">
@@ -10908,6 +10942,7 @@
       <File Name="[MS-FSCC]-180912.pdf" Type="PDF" />
       <File Name="[MS-FSCC]-180912.docx" Type="DOCX" />
       <File Name="[MS-FSCC]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-FSCC]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-FSMOD">
@@ -10957,6 +10992,12 @@
       <File Name="[MS-FSMOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-FSMOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-FSMOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="7.0" Class="Major">
+      <File Name="[MS-FSMOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-FSMOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-FSMOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-FSMOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-FSRM">
@@ -12057,6 +12098,12 @@
       <File Name="[MS-GPOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-GPOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-GPOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="9.0" Class="Major">
+      <File Name="[MS-GPOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-GPOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-GPOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-GPOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-GPOL">
@@ -16195,6 +16242,12 @@
       <File Name="[MS-MQOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-MQOD]-171215-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="5.0" Class="Major">
+      <File Name="[MS-MQOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-MQOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-MQOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-MQOD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-MQQB">
     <Revision Date="2007-05-11" Version="0.1" Class="New" />
@@ -16841,6 +16894,12 @@
       <File Name="[MS-MSSOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-MSSOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-MSSOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="6.0" Class="Major">
+      <File Name="[MS-MSSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-MSSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-MSSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-MSSOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-MWBE">
@@ -20851,6 +20910,12 @@
       <File Name="[MS-PRSOD]-180629-captureALL.zip" Type="Capture" />
       <File Name="[MS-PRSOD]-180629-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="9.0" Class="Major">
+      <File Name="[MS-PRSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-PRSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-PRSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-PRSOD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-PSDP">
     <Revision Date="2007-02-22" Version="0.01" Class="New" />
@@ -24560,6 +24625,12 @@
       <File Name="[MS-RDSOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-RDSOD]-171215-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="7.0" Class="Major">
+      <File Name="[MS-RDSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-RDSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-RDSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-RDSOD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-RDWR">
     <Revision Date="2011-12-16" Version="1.0" Class="New" />
@@ -24918,6 +24989,12 @@
       <File Name="[MS-RMSOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-RMSOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-RMSOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="11.0" Class="Major">
+      <File Name="[MS-RMSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-RMSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-RMSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-RMSOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-RNAP">
@@ -25411,6 +25488,7 @@
       <File Name="[MS-RPRN]-180912.pdf" Type="PDF" />
       <File Name="[MS-RPRN]-180912.docx" Type="DOCX" />
       <File Name="[MS-RPRN]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RPRN]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RRASM">
@@ -28243,6 +28321,12 @@
       <File Name="[MS-STOROD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-STOROD]-171215-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="7.0" Class="Major">
+      <File Name="[MS-STOROD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-STOROD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-STOROD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-STOROD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-SWN">
     <Revision Date="2011-12-16" Version="1.0" Class="New" />
@@ -29069,6 +29153,12 @@
       <File Name="[MS-TPSOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-TPSOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-TPSOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="4.0" Class="Major">
+      <File Name="[MS-TPSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-TPSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-TPSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-TPSOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-TPXS">
@@ -30324,6 +30414,12 @@
       <File Name="[MS-VSOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-VSOD]-171215-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="3.0" Class="Major">
+      <File Name="[MS-VSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-VSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-VSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-VSOD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-VUVP">
     <Revision Date="2007-05-11" Version="0.1" Class="New" />
@@ -31432,6 +31528,14 @@
       <File Name="[MS-WINPROTLP]-180912.pdf" Type="PDF" />
       <File Name="[MS-WINPROTLP]-180912.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2018-11-05" Version="1.0" Class="None">
+      <File Name="[MS-WINPROTLP]-181105.pdf" Type="PDF" />
+      <File Name="[MS-WINPROTLP]-181105.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-11-14" Version="1.0" Class="None">
+      <File Name="[MS-WINPROTLP]-181114.pdf" Type="PDF" />
+      <File Name="[MS-WINPROTLP]-181114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WINSRA">
     <Revision Date="2007-08-10" Version="1.0" Class="Major" />
@@ -31631,6 +31735,7 @@
       <File Name="[MS-WKST]-180912.pdf" Type="PDF" />
       <File Name="[MS-WKST]-180912.docx" Type="DOCX" />
       <File Name="[MS-WKST]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-WKST]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-WMF">
@@ -32138,6 +32243,12 @@
       <File Name="[MS-WMOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-WMOD]-171215-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2018-11-05" Version="7.0" Class="Major">
+      <File Name="[MS-WMOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-WMOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-WMOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-WMOD]-181105-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-WMSP">
     <Revision Date="2006-12-18" Version="0.1" Class="New" />
@@ -32316,6 +32427,11 @@
       <File Name="[MS-WPO]-171215.pdf" Type="PDF" />
       <File Name="[MS-WPO]-171215.docx" Type="DOCX" />
       <File Name="[MS-WPO]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="9.0" Class="Major">
+      <File Name="[MS-WPO]-181105.pdf" Type="PDF" />
+      <File Name="[MS-WPO]-181105.docx" Type="DOCX" />
+      <File Name="[MS-WPO]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-WPODF">
@@ -33687,6 +33803,12 @@
       <File Name="[MS-WSUSOD]-171215.docx" Type="DOCX" />
       <File Name="[MS-WSUSOD]-171215-captureALL.zip" Type="Capture" />
       <File Name="[MS-WSUSOD]-171215-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2018-11-05" Version="8.0" Class="Major">
+      <File Name="[MS-WSUSOD]-181105.pdf" Type="PDF" />
+      <File Name="[MS-WSUSOD]-181105.docx" Type="DOCX" />
+      <File Name="[MS-WSUSOD]-181105-captureALL.zip" Type="Capture" />
+      <File Name="[MS-WSUSOD]-181105-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-WSUSSS">
