@@ -1465,7 +1465,7 @@
     <Repo Name="open_specs_windows" DocSetFolder="documentation" DocFolder="wordpad_standards_support" />
     <MachineId>2</MachineId>
     <Id>6/0/E/60EBE400-962D-4B68-92A6-9818644808DA</Id>
-    <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
+    <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
     <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
     <Zip>Windows_Wordpad_Standards_Support.zip</Zip>
     <Hxs Family="PROT" Version="20">MS-WINWPSTANDLP</Hxs>
