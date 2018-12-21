@@ -1262,6 +1262,7 @@
     <Docs>
       <Doc ParentId="63bd758c-9134-4ea3-9a74-566b27e92046" Branches="Published, Current">MS-MSDLLP</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-XAML-2017</Doc>
+	  <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2019</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017-Sept</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-SLXV-5</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017-July</Doc>
