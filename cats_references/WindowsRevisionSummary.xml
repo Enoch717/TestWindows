@@ -2710,6 +2710,7 @@
       <File Name="[MS-ADDM]-180912.pdf" Type="PDF" />
       <File Name="[MS-ADDM]-180912.docx" Type="DOCX" />
       <File Name="[MS-ADDM]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-ADDM]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-ADFSOAL">
@@ -14545,6 +14546,7 @@
       <File Name="[MS-LCID]-180912.pdf" Type="PDF" />
       <File Name="[MS-LCID]-180912.docx" Type="DOCX" />
       <File Name="[MS-LCID]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-LCID]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-LLMNRP">
@@ -17308,6 +17310,7 @@
       <File Name="[MS-NCNBI]-180912.pdf" Type="PDF" />
       <File Name="[MS-NCNBI]-180912.docx" Type="DOCX" />
       <File Name="[MS-NCNBI]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-NCNBI]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-NCT">
@@ -17719,6 +17722,7 @@
       <File Name="[MS-NLMP]-180912.pdf" Type="PDF" />
       <File Name="[MS-NLMP]-180912.docx" Type="DOCX" />
       <File Name="[MS-NLMP]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-NLMP]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-NMFMB">
@@ -19502,6 +19506,7 @@
       <File Name="[MS-PAR]-180912.pdf" Type="PDF" />
       <File Name="[MS-PAR]-180912.docx" Type="DOCX" />
       <File Name="[MS-PAR]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-PAR]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-PASS">
@@ -23104,6 +23109,7 @@
       <File Name="[MS-RDPEGFX]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPEGFX]-180912.docx" Type="DOCX" />
       <File Name="[MS-RDPEGFX]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RDPEGFX]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPEGT">
@@ -23303,6 +23309,7 @@
       <File Name="[MS-RDPELE]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPELE]-180912.docx" Type="DOCX" />
       <File Name="[MS-RDPELE]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RDPELE]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPEMC">
