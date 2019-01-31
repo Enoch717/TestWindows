@@ -31486,6 +31486,10 @@
   <Book Name="MS-WINARCHLP" />
   <Book Name="MS-WINERRATA">
     <Revision Date="2015-06-30" Version="1.0" Class="New" />
+    <Revision Date="2019-01-14" Version="1.0" Class="None">
+      <File Name="[MS-WINERRATA]-190114.pdf" Type="PDF" />
+      <File Name="[MS-WINERRATA]-190114.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-WININTBLOGLP" />
   <Book Name="MS-WINPROTLP">
@@ -31539,9 +31543,9 @@
       <File Name="[MS-WINPROTLP]-181105.pdf" Type="PDF" />
       <File Name="[MS-WINPROTLP]-181105.docx" Type="DOCX" />
     </Revision>
-    <Revision Date="2018-11-14" Version="1.0" Class="None">
-      <File Name="[MS-WINPROTLP]-181114.pdf" Type="PDF" />
-      <File Name="[MS-WINPROTLP]-181114.docx" Type="DOCX" />
+    <Revision Date="2019-01-04" Version="1.0" Class="None">
+      <File Name="[MS-WINPROTLP]-190104.pdf" Type="PDF" />
+      <File Name="[MS-WINPROTLP]-190104.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WINSRA">
