@@ -311,6 +311,11 @@
       <File Name="[MC-CSDL]-170601.docx" Type="DOCX" />
       <File Name="[MC-CSDL]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="14.0" Class="Major">
+      <File Name="[MC-CSDL]-190313.pdf" Type="PDF" />
+      <File Name="[MC-CSDL]-190313.docx" Type="DOCX" />
+      <File Name="[MC-CSDL]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MC-DPL4CS">
     <Revision Date="2007-08-10" Version="0.1" Class="Major" />
@@ -1132,6 +1137,11 @@
       <File Name="[MC-EDMX]-170601.docx" Type="DOCX" />
       <File Name="[MC-EDMX]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="9.0" Class="Major">
+      <File Name="[MC-EDMX]-190313.pdf" Type="PDF" />
+      <File Name="[MC-EDMX]-190313.docx" Type="DOCX" />
+      <File Name="[MC-EDMX]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MC-IISA">
     <Revision Date="2007-04-03" Version="0.1" Class="Major" />
@@ -1472,6 +1482,11 @@
       <File Name="[MC-NBFS]-170601.docx" Type="DOCX" />
       <File Name="[MC-NBFS]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="6.0" Class="Major">
+      <File Name="[MC-NBFS]-190313.pdf" Type="PDF" />
+      <File Name="[MC-NBFS]-190313.docx" Type="DOCX" />
+      <File Name="[MC-NBFS]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MC-NBFSE">
     <Revision Date="2007-08-10" Version="0.1" Class="Major" />
@@ -1552,6 +1567,11 @@
       <File Name="[MC-NBFSE]-170601.pdf" Type="PDF" />
       <File Name="[MC-NBFSE]-170601.docx" Type="DOCX" />
       <File Name="[MC-NBFSE]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="6.0" Class="Major">
+      <File Name="[MC-NBFSE]-190313.pdf" Type="PDF" />
+      <File Name="[MC-NBFSE]-190313.docx" Type="DOCX" />
+      <File Name="[MC-NBFSE]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MC-NBFX">
@@ -1634,6 +1654,11 @@
       <File Name="[MC-NBFX]-170601.docx" Type="DOCX" />
       <File Name="[MC-NBFX]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="8.0" Class="Major">
+      <File Name="[MC-NBFX]-190313.pdf" Type="PDF" />
+      <File Name="[MC-NBFX]-190313.docx" Type="DOCX" />
+      <File Name="[MC-NBFX]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MC-NETCEX">
     <Revision Date="2008-04-08" Version="0.1" Class="New" />
@@ -1709,6 +1734,11 @@
       <File Name="[MC-NETCEX]-170601.pdf" Type="PDF" />
       <File Name="[MC-NETCEX]-170601.docx" Type="DOCX" />
       <File Name="[MC-NETCEX]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="6.0" Class="Major">
+      <File Name="[MC-NETCEX]-190313.pdf" Type="PDF" />
+      <File Name="[MC-NETCEX]-190313.docx" Type="DOCX" />
+      <File Name="[MC-NETCEX]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MC-NMF">
@@ -1797,6 +1827,11 @@
       <File Name="[MC-NMF]-180316-diff.pdf" Type="Diff" />
       <File Name="[MC-NMF]-180316-errata.pdf" Type="Errata" />
     </Revision>
+    <Revision Date="2019-03-13" Version="10.0" Class="Major">
+      <File Name="[MC-NMF]-190313.pdf" Type="PDF" />
+      <File Name="[MC-NMF]-190313.docx" Type="DOCX" />
+      <File Name="[MC-NMF]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MC-NPR">
     <Revision Date="2007-08-10" Version="0.1" Class="Major" />
@@ -1878,6 +1913,11 @@
       <File Name="[MC-NPR]-170601.docx" Type="DOCX" />
       <File Name="[MC-NPR]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="7.0" Class="Major">
+      <File Name="[MC-NPR]-190313.pdf" Type="PDF" />
+      <File Name="[MC-NPR]-190313.docx" Type="DOCX" />
+      <File Name="[MC-NPR]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MC-PRCH">
     <Revision Date="2007-08-10" Version="0.1" Class="Major" />
@@ -1958,6 +1998,11 @@
       <File Name="[MC-PRCH]-170601.pdf" Type="PDF" />
       <File Name="[MC-PRCH]-170601.docx" Type="DOCX" />
       <File Name="[MC-PRCH]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="15.0" Class="Major">
+      <File Name="[MC-PRCH]-190313.pdf" Type="PDF" />
+      <File Name="[MC-PRCH]-190313.docx" Type="DOCX" />
+      <File Name="[MC-PRCH]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MC-PRCR">
@@ -2046,10 +2091,10 @@
       <File Name="[MC-PRCR]-170915.docx" Type="DOCX" />
       <File Name="[MC-PRCR]-170915-diff.pdf" Type="Diff" />
     </Revision>
-    <Revision Date="2017-12-01" Version="15.0" Class="None">
-      <File Name="[MC-PRCR]-171201.pdf" Type="PDF" />
-      <File Name="[MC-PRCR]-171201.docx" Type="DOCX" />
-      <File Name="[MC-PRCR]-171201-diff.pdf" Type="Diff" />
+    <Revision Date="2019-03-13" Version="16.0" Class="Major">
+      <File Name="[MC-PRCR]-190313.pdf" Type="PDF" />
+      <File Name="[MC-PRCR]-190313.docx" Type="DOCX" />
+      <File Name="[MC-PRCR]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MC-SMP">
@@ -3700,6 +3745,11 @@
       <File Name="[MS-ASP]-170601.pdf" Type="PDF" />
       <File Name="[MS-ASP]-170601.docx" Type="DOCX" />
       <File Name="[MS-ASP]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="12.0" Class="Major">
+      <File Name="[MS-ASP]-190313.pdf" Type="PDF" />
+      <File Name="[MS-ASP]-190313.docx" Type="DOCX" />
+      <File Name="[MS-ASP]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-AUTHSOD">
@@ -7808,6 +7858,11 @@
       <File Name="[MS-DNSP]-180912.docx" Type="DOCX" />
       <File Name="[MS-DNSP]-180912-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="35.0" Class="Major">
+      <File Name="[MS-DNSP]-190313.pdf" Type="PDF" />
+      <File Name="[MS-DNSP]-190313.docx" Type="DOCX" />
+      <File Name="[MS-DNSP]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-DOCO">
     <Revision Date="2011-12-16" Version="1.0" Class="New" />
@@ -8712,6 +8767,11 @@
       <File Name="[MS-DSML]-170601.pdf" Type="PDF" />
       <File Name="[MS-DSML]-170601.docx" Type="DOCX" />
       <File Name="[MS-DSML]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="9.0" Class="Major">
+      <File Name="[MS-DSML]-190313.pdf" Type="PDF" />
+      <File Name="[MS-DSML]-190313.docx" Type="DOCX" />
+      <File Name="[MS-DSML]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-DSMN">
@@ -10420,6 +10480,7 @@
       <File Name="[MS-FASP]-180912.pdf" Type="PDF" />
       <File Name="[MS-FASP]-180912.docx" Type="DOCX" />
       <File Name="[MS-FASP]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-FASP]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-FAX">
@@ -10749,6 +10810,7 @@
       <File Name="[MS-FRS2]-180912.pdf" Type="PDF" />
       <File Name="[MS-FRS2]-180912.docx" Type="DOCX" />
       <File Name="[MS-FRS2]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-FRS2]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-FSA">
@@ -13160,6 +13222,7 @@
       <File Name="[MS-HGSA]-180912.pdf" Type="PDF" />
       <File Name="[MS-HGSA]-180912.docx" Type="DOCX" />
       <File Name="[MS-HGSA]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-HGSA]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-HNDS">
@@ -13339,6 +13402,11 @@
       <File Name="[MS-HTTPE]-180912.pdf" Type="PDF" />
       <File Name="[MS-HTTPE]-180912.docx" Type="DOCX" />
       <File Name="[MS-HTTPE]-180912-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="7.0" Class="Major">
+      <File Name="[MS-HTTPE]-190313.pdf" Type="PDF" />
+      <File Name="[MS-HTTPE]-190313.docx" Type="DOCX" />
+      <File Name="[MS-HTTPE]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-HVRS">
@@ -13825,6 +13893,11 @@
       <File Name="[MS-IOI]-170601.docx" Type="DOCX" />
       <File Name="[MS-IOI]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="20.0" Class="Major">
+      <File Name="[MS-IOI]-190313.pdf" Type="PDF" />
+      <File Name="[MS-IOI]-190313.docx" Type="DOCX" />
+      <File Name="[MS-IOI]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-IPAMM">
     <Revision Date="2012-03-30" Version="1.0" Class="New" />
@@ -13916,6 +13989,11 @@
       <File Name="[MS-IPAMM2]-180912.pdf" Type="PDF" />
       <File Name="[MS-IPAMM2]-180912.docx" Type="DOCX" />
       <File Name="[MS-IPAMM2]-180912-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="9.0" Class="None">
+      <File Name="[MS-IPAMM2]-190313.pdf" Type="PDF" />
+      <File Name="[MS-IPAMM2]-190313.docx" Type="DOCX" />
+      <File Name="[MS-IPAMM2]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-IPHTTPS">
@@ -14547,6 +14625,11 @@
       <File Name="[MS-LCID]-180912.docx" Type="DOCX" />
       <File Name="[MS-LCID]-180912-diff.pdf" Type="Diff" />
       <File Name="[MS-LCID]-180912-errata.pdf" Type="Errata" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="13.0" Class="Major">
+      <File Name="[MS-LCID]-190313.pdf" Type="PDF" />
+      <File Name="[MS-LCID]-190313.docx" Type="DOCX" />
+      <File Name="[MS-LCID]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-LLMNRP">
@@ -15350,6 +15433,11 @@
       <File Name="[MS-MDM]-171201.pdf" Type="PDF" />
       <File Name="[MS-MDM]-171201.docx" Type="DOCX" />
       <File Name="[MS-MDM]-171201-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="9.0" Class="Major">
+      <File Name="[MS-MDM]-190313.pdf" Type="PDF" />
+      <File Name="[MS-MDM]-190313.docx" Type="DOCX" />
+      <File Name="[MS-MDM]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-MICE">
@@ -17476,6 +17564,11 @@
       <File Name="[MS-NETTR]-170601.docx" Type="DOCX" />
       <File Name="[MS-NETTR]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="6.0" Class="Major">
+      <File Name="[MS-NETTR]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NETTR]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NETTR]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-NFPB">
     <Revision Date="2013-01-31" Version="1.0" Class="New" />
@@ -17789,6 +17882,11 @@
       <File Name="[MS-NMFMB]-171201.docx" Type="DOCX" />
       <File Name="[MS-NMFMB]-171201-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="5.0" Class="Major">
+      <File Name="[MS-NMFMB]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NMFMB]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NMFMB]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-NMFTB">
     <Revision Date="2010-03-12" Version="0.1" Class="Major" />
@@ -17847,6 +17945,11 @@
       <File Name="[MS-NMFTB]-170601.pdf" Type="PDF" />
       <File Name="[MS-NMFTB]-170601.docx" Type="DOCX" />
       <File Name="[MS-NMFTB]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="5.0" Class="Major">
+      <File Name="[MS-NMFTB]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NMFTB]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NMFTB]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-NNS">
@@ -17933,6 +18036,12 @@
       <File Name="[MS-NNS]-171201.pdf" Type="PDF" />
       <File Name="[MS-NNS]-171201.docx" Type="DOCX" />
       <File Name="[MS-NNS]-171201-diff.pdf" Type="Diff" />
+      <File Name="[MS-NNS]-171201-errata.pdf" Type="Errata" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="8.0" Class="Major">
+      <File Name="[MS-NNS]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NNS]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NNS]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-NNTP">
@@ -18091,6 +18200,11 @@
       <File Name="[MS-NRBF]-170601.docx" Type="DOCX" />
       <File Name="[MS-NRBF]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="12.0" Class="Major">
+      <File Name="[MS-NRBF]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NRBF]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NRBF]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-NRLS">
     <Revision Date="2007-07-20" Version="0.1" Class="Major" />
@@ -18171,6 +18285,11 @@
       <File Name="[MS-NRLS]-170601.pdf" Type="PDF" />
       <File Name="[MS-NRLS]-170601.docx" Type="DOCX" />
       <File Name="[MS-NRLS]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="11.0" Class="Major">
+      <File Name="[MS-NRLS]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NRLS]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NRLS]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-NRPC">
@@ -18352,6 +18471,11 @@
       <File Name="[MS-NRTP]-170601.pdf" Type="PDF" />
       <File Name="[MS-NRTP]-170601.docx" Type="DOCX" />
       <File Name="[MS-NRTP]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="14.0" Class="Major">
+      <File Name="[MS-NRTP]-190313.pdf" Type="PDF" />
+      <File Name="[MS-NRTP]-190313.docx" Type="DOCX" />
+      <File Name="[MS-NRTP]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-NSPI">
@@ -18966,6 +19090,11 @@
       <File Name="[MS-ODATA]-170601.pdf" Type="PDF" />
       <File Name="[MS-ODATA]-170601.docx" Type="DOCX" />
       <File Name="[MS-ODATA]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="21.0" Class="Major">
+      <File Name="[MS-ODATA]-190313.pdf" Type="PDF" />
+      <File Name="[MS-ODATA]-190313.docx" Type="DOCX" />
+      <File Name="[MS-ODATA]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-OIDCE">
@@ -22217,6 +22346,7 @@
       <File Name="[MS-RDPBCGR]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPBCGR]-180912.docx" Type="DOCX" />
       <File Name="[MS-RDPBCGR]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RDPBCGR]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPCR2">
@@ -22486,6 +22616,7 @@
     <Revision Date="2018-09-12" Version="1.0" Class="New">
       <File Name="[MS-RDPECAM]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPECAM]-180912.docx" Type="DOCX" />
+      <File Name="[MS-RDPECAM]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPECLIP">
@@ -23853,6 +23984,7 @@
       <File Name="[MS-RDPERP]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPERP]-180912.docx" Type="DOCX" />
       <File Name="[MS-RDPERP]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RDPERP]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPESC">
@@ -24143,12 +24275,14 @@
       <File Name="[MS-RDPEUDP]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPEUDP]-180912.docx" Type="DOCX" />
       <File Name="[MS-RDPEUDP]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RDPEUDP]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPEUDP2">
     <Revision Date="2018-09-12" Version="1.0" Class="New">
       <File Name="[MS-RDPEUDP2]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPEUDP2]-180912.docx" Type="DOCX" />
+      <File Name="[MS-RDPEUDP2]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDPEUSB">
@@ -24577,6 +24711,7 @@
       <File Name="[MS-RDPRFX]-180912.pdf" Type="PDF" />
       <File Name="[MS-RDPRFX]-180912.docx" Type="DOCX" />
       <File Name="[MS-RDPRFX]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-RDPRFX]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-RDSOD">
@@ -25677,6 +25812,11 @@
       <File Name="[MS-RRP]-180912.docx" Type="DOCX" />
       <File Name="[MS-RRP]-180912-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="34.0" Class="Major">
+      <File Name="[MS-RRP]-190313.pdf" Type="PDF" />
+      <File Name="[MS-RRP]-190313.docx" Type="DOCX" />
+      <File Name="[MS-RRP]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-RRSP2">
     <Revision Date="2010-08-27" Version="0.1" Class="New" />
@@ -26753,6 +26893,11 @@
       <File Name="[MS-SCMR]-180912.docx" Type="DOCX" />
       <File Name="[MS-SCMR]-180912-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="29.0" Class="Major">
+      <File Name="[MS-SCMR]-190313.pdf" Type="PDF" />
+      <File Name="[MS-SCMR]-190313.docx" Type="DOCX" />
+      <File Name="[MS-SCMR]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-SDP">
     <Revision Date="2007-05-11" Version="0.1" Class="New" />
@@ -27459,6 +27604,11 @@
       <File Name="[MS-SMTPNTLM]-180912.docx" Type="DOCX" />
       <File Name="[MS-SMTPNTLM]-180912-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="21.0" Class="Major">
+      <File Name="[MS-SMTPNTLM]-190313.pdf" Type="PDF" />
+      <File Name="[MS-SMTPNTLM]-190313.docx" Type="DOCX" />
+      <File Name="[MS-SMTPNTLM]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-SNID">
     <Revision Date="2013-08-08" Version="1.0" Class="New">
@@ -28113,6 +28263,11 @@
       <File Name="[MS-SSEAN]-180912.docx" Type="DOCX" />
       <File Name="[MS-SSEAN]-180912-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="6.0" Class="Major">
+      <File Name="[MS-SSEAN]-190313.pdf" Type="PDF" />
+      <File Name="[MS-SSEAN]-190313.docx" Type="DOCX" />
+      <File Name="[MS-SSEAN]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-SSTP">
     <Revision Date="2007-02-22" Version="0.01" Class="New" />
@@ -28390,6 +28545,7 @@
       <File Name="[MS-SWN]-180912.pdf" Type="PDF" />
       <File Name="[MS-SWN]-180912.docx" Type="DOCX" />
       <File Name="[MS-SWN]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-SWN]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-SWSB">
@@ -28446,6 +28602,11 @@
       <File Name="[MS-SWSB]-180912.pdf" Type="PDF" />
       <File Name="[MS-SWSB]-180912.docx" Type="DOCX" />
       <File Name="[MS-SWSB]-180912-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="7.0" Class="Major">
+      <File Name="[MS-SWSB]-190313.pdf" Type="PDF" />
+      <File Name="[MS-SWSB]-190313.docx" Type="DOCX" />
+      <File Name="[MS-SWSB]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-SYS">
@@ -28748,6 +28909,11 @@
       <File Name="[MS-TDS]-180912.docx" Type="DOCX" />
       <File Name="[MS-TDS]-180912-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="26.0" Class="Major">
+      <File Name="[MS-TDS]-190313.pdf" Type="PDF" />
+      <File Name="[MS-TDS]-190313.docx" Type="DOCX" />
+      <File Name="[MS-TDS]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-THCH">
     <Revision Date="2011-12-16" Version="1.0" Class="New" />
@@ -28793,6 +28959,11 @@
       <File Name="[MS-THCH]-170601.pdf" Type="PDF" />
       <File Name="[MS-THCH]-170601.docx" Type="DOCX" />
       <File Name="[MS-THCH]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="4.0" Class="Major">
+      <File Name="[MS-THCH]-190313.pdf" Type="PDF" />
+      <File Name="[MS-THCH]-190313.docx" Type="DOCX" />
+      <File Name="[MS-THCH]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-TIPP">
@@ -31482,13 +31653,18 @@
       <File Name="[MS-WFIM]-170601.docx" Type="DOCX" />
       <File Name="[MS-WFIM]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="8.0" Class="Major">
+      <File Name="[MS-WFIM]-190313.pdf" Type="PDF" />
+      <File Name="[MS-WFIM]-190313.docx" Type="DOCX" />
+      <File Name="[MS-WFIM]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-WINARCHLP" />
   <Book Name="MS-WINERRATA">
     <Revision Date="2015-06-30" Version="1.0" Class="New" />
-    <Revision Date="2019-01-14" Version="1.0" Class="None">
-      <File Name="[MS-WINERRATA]-190114.pdf" Type="PDF" />
-      <File Name="[MS-WINERRATA]-190114.docx" Type="DOCX" />
+    <Revision Date="2019-02-18" Version="1.0" Class="None">
+      <File Name="[MS-WINERRATA]-190218.pdf" Type="PDF" />
+      <File Name="[MS-WINERRATA]-190218.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WININTBLOGLP" />
@@ -31543,9 +31719,9 @@
       <File Name="[MS-WINPROTLP]-181105.pdf" Type="PDF" />
       <File Name="[MS-WINPROTLP]-181105.docx" Type="DOCX" />
     </Revision>
-    <Revision Date="2019-01-04" Version="1.0" Class="None">
-      <File Name="[MS-WINPROTLP]-190104.pdf" Type="PDF" />
-      <File Name="[MS-WINPROTLP]-190104.docx" Type="DOCX" />
+    <Revision Date="2019-02-20" Version="1.0" Class="None">
+      <File Name="[MS-WINPROTLP]-190220.pdf" Type="PDF" />
+      <File Name="[MS-WINPROTLP]-190220.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WINSRA">
@@ -33209,6 +33385,11 @@
       <File Name="[MS-WSPOL]-170601.docx" Type="DOCX" />
       <File Name="[MS-WSPOL]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="8.0" Class="Major">
+      <File Name="[MS-WSPOL]-190313.pdf" Type="PDF" />
+      <File Name="[MS-WSPOL]-190313.docx" Type="DOCX" />
+      <File Name="[MS-WSPOL]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-WSRM">
     <Revision Date="2008-01-25" Version="0.1" Class="Major" />
@@ -33356,6 +33537,11 @@
       <File Name="[MS-WSRVCAT]-170601.docx" Type="DOCX" />
       <File Name="[MS-WSRVCAT]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="8.0" Class="Major">
+      <File Name="[MS-WSRVCAT]-190313.pdf" Type="PDF" />
+      <File Name="[MS-WSRVCAT]-190313.docx" Type="DOCX" />
+      <File Name="[MS-WSRVCAT]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-WSRVCRM">
     <Revision Date="2008-04-08" Version="0.1" Class="New" />
@@ -33430,6 +33616,11 @@
       <File Name="[MS-WSRVCRM]-170601.pdf" Type="PDF" />
       <File Name="[MS-WSRVCRM]-170601.docx" Type="DOCX" />
       <File Name="[MS-WSRVCRM]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="8.0" Class="Major">
+      <File Name="[MS-WSRVCRM]-190313.pdf" Type="PDF" />
+      <File Name="[MS-WSRVCRM]-190313.docx" Type="DOCX" />
+      <File Name="[MS-WSRVCRM]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-WSRVCRR">
@@ -33506,6 +33697,11 @@
       <File Name="[MS-WSRVCRR]-170601.docx" Type="DOCX" />
       <File Name="[MS-WSRVCRR]-170601-diff.pdf" Type="Diff" />
     </Revision>
+    <Revision Date="2019-03-13" Version="10.0" Class="Major">
+      <File Name="[MS-WSRVCRR]-190313.pdf" Type="PDF" />
+      <File Name="[MS-WSRVCRR]-190313.docx" Type="DOCX" />
+      <File Name="[MS-WSRVCRR]-190313-diff.pdf" Type="Diff" />
+    </Revision>
   </Book>
   <Book Name="MS-WSTC">
     <Revision Date="2009-05-22" Version="0.1" Class="Major" />
@@ -33571,6 +33767,11 @@
       <File Name="[MS-WSTC]-170601.pdf" Type="PDF" />
       <File Name="[MS-WSTC]-170601.docx" Type="DOCX" />
       <File Name="[MS-WSTC]-170601-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-03-13" Version="7.0" Class="Major">
+      <File Name="[MS-WSTC]-190313.pdf" Type="PDF" />
+      <File Name="[MS-WSTC]-190313.docx" Type="DOCX" />
+      <File Name="[MS-WSTC]-190313-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-WSTEP">
