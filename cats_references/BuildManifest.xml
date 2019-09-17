@@ -108,6 +108,7 @@
     <Hxs Family="PROT" Version="20">MS-WINPROTLP</Hxs>
     <ReadMe>[[Readmefirst]].pdf</ReadMe>
     <Docs>
+	  <Doc Branches="None">MS-SIMPLES</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-BUP</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-CCFG</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MC-COMQC</Doc>
@@ -532,7 +533,7 @@
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFDAA</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFDPE</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFIM</Doc>
-      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-WINERRATA</Doc>
+      <Doc ParentId="6ad4d3cc-124d-47f1-98fc-624eec47f080" Branches="Published, Current">MS-WINERRATA</Doc>
       <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Current">MS-WINPROTLP</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WINSRA</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WKST</Doc>
@@ -928,7 +929,7 @@
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSRMSM2006</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSSFA</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SCCSTR</Doc>
-      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-SQLERRATA</Doc>
+      <Doc ParentId="a8a80849-b1b9-4da6-872a-fae5005302e9" Branches="Published, Current">MS-SQLERRATA</Doc>
       <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Current">MS-SQLPROTLP</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SQLRS</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSAS</Doc>
@@ -958,12 +959,12 @@
     <ReadMe>[[ReadmefirstMSExStand]].pdf</ReadMe>
     <Docs>
       <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Future">MS-OXSTANDLP</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOICAL</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOIMAP</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOPOP3</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXICAL</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXIMAP</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXPOP3</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANOICAL</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANOIMAP</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANOPOP3</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANXICAL</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANXIMAP</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANXPOP3</Doc>
     </Docs>
   </Group>
   <Group>
@@ -1028,7 +1029,8 @@
     <ReadMe>[[ReadmefirstOSS]].pdf</ReadMe>
     <Docs>
       <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Current">MS-SQLODSTANDLP</Doc>
-      <Doc ParentId="89584d21-315b-4ae7-8a4d-cf1e8dc6e8de" Branches="Published, Current">MS-ODATAJSON</Doc>
+      <Doc ParentId="de79a6ca-f126-40a1-b78f-98676f065143" Branches="Published, Current">MS-ODATAJSON</Doc>
+      <Doc ParentId="959607ba-a762-4cd1-9076-f27a3fdc686f" Branches="Published, Current">MS-ODATAERRATA</Doc>
     </Docs>
   </Group>
   <Group>
@@ -1225,7 +1227,6 @@
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-DTS</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-ISPAC</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-MSL</Doc>
-      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-ODATAERRATA</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-RDLRS</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-SMDL</Doc>
       <Doc ParentId="a2bc1311-e0e7-4808-970a-4dc0a100f708" Branches="Published, Current">MS-SQLPORTLP</Doc>
@@ -1262,8 +1263,8 @@
     <Docs>
       <Doc ParentId="63bd758c-9134-4ea3-9a74-566b27e92046" Branches="Published, Current">MS-MSDLLP</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-XAML-2017</Doc>
-	  <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2019</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017-Sept</Doc>
+	  <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2019</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-SLXV-5</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017-July</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017</Doc>
@@ -1483,7 +1484,7 @@
     <MachineId>1</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
-    <AzureUrl />
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
     <Zip />
     <Hxs Family="Office" Version="12" />
     <Docs>
@@ -1497,7 +1498,7 @@
     <MachineId>2</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
-    <AzureUrl />
+    <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
     <Zip />
     <Hxs Family="SQL" Version="105" />
     <Docs>
@@ -1511,7 +1512,7 @@
     <MachineId>2</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
-    <AzureUrl />
+    <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
     <Zip />
     <Hxs Family="PROT" Version="20" />
     <Docs>
@@ -1589,7 +1590,7 @@
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
     <Zip>Windows_Internal.zip</Zip>
-    <Watermark>Internal</Watermark>
+    <!--<Watermark>Internal</Watermark>-->
     <Docs>
       <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Current">MS-ADFSMFA</Doc>
       <Doc Branches="None">MS-BLANK160120</Doc>
@@ -1608,6 +1609,7 @@
       <Doc Branches="None">MS-C-SOAP</Doc>
       <Doc>MS-C-STRUCTURE</Doc>
       <Doc>MS-C-VANILLA</Doc>
+	  
       <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Current">MS-CCMRP</Doc>
       <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Current">MS-CDVM</Doc>
       <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Current">MS-CMCP</Doc>
