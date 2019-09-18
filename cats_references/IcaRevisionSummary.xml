@@ -3,8 +3,12 @@
   <Book Name="MS-ARCHIVELP">
     <Revision Date="2009-07-13" Version="0.1" Class="Major" />
   </Book>
-  <Book Name="MS-COMPLANLP" />
-  <Book Name="MS-DATAPORTLP" />
+  <Book Name="MS-COMPLANLP">
+    <Revision Date="2019-09-24" Version="1.0" Class="New" />
+  </Book>
+  <Book Name="MS-DATAPORTLP">
+    <Revision Date="2019-09-24" Version="1.0" Class="New" />
+  </Book>
   <Book Name="MS-DEVCENTER" />
   <Book Name="MS-DEVCENTLP">
     <Revision Date="2019-05-30" Version="1.0" Class="New" />
@@ -12,7 +16,13 @@
   <Book Name="MS-DOCPROGLP">
     <Revision Date="2009-07-13" Version="0.1" Class="Major" />
   </Book>
-  <Book Name="MS-OPENSPECLP" />
-  <Book Name="MS-PROTOCOLSLP" />
-  <Book Name="MS-STDSUPLP" />
+  <Book Name="MS-OPENSPECLP">
+    <Revision Date="2019-09-24" Version="1.0" Class="New" />
+  </Book>
+  <Book Name="MS-PROTOCOLSLP">
+    <Revision Date="2019-09-24" Version="1.0" Class="New" />
+  </Book>
+  <Book Name="MS-STDSUPLP">
+    <Revision Date="2019-09-24" Version="1.0" Class="New" />
+  </Book>
 </Books>
