@@ -1,0 +1,59 @@
+191028.04.01 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, October 28, 2019 9:29:48 PM
+   Source : \\gendoxbuild2019\GendoxBuilds\191028.04.01\Shadow\Docsets\Future\open_specs_blog\documentation\
+     Dest : C:\Enoch\gitRepo\Test\TestWindows\open_specs_blog\documentation\
+
+    Files : *.*
+	    
+Exc Files : docfx.json
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	  New Dir          0	\\gendoxbuild2019\GendoxBuilds\191028.04.01\Shadow\Docsets\Future\open_specs_blog\documentation\
+	  New Dir          0	\\gendoxbuild2019\GendoxBuilds\191028.04.01\Shadow\Docsets\Future\open_specs_blog\documentation\blog\
+	  New Dir         19	\\gendoxbuild2019\GendoxBuilds\191028.04.01\Shadow\Docsets\Future\open_specs_blog\documentation\blog\MS-OFFINTBLOGLP\
+	    New File  		    2070	0057a5d8-9c1d-4aa2-9501-42429365fdac.md  0%  100%  
+	    New File  		      95	240bcda1-2ca2-4032-8c6a-b458ca666ea1.md  0%  100%  
+	    New File  		    3021	2791b29b-794b-4f7f-811a-0e437f85c983.md  0%  100%  
+	    New File  		    1360	348a39fc-9110-4157-aa71-9ec85fc57ae3.md  0%  100%  
+	    New File  		    1554	48299d2a-b5f9-498e-9c73-614d6dea6276.md  0%  100%  
+	    New File  		      83	4c90f394-1592-4a2b-8c51-8849e15eee81.md  0%  100%  
+	    New File  		      95	4f6a638c-ae0f-4402-a8ee-a87affafc360.md  0%  100%  
+	    New File  		    2696	5421a876-9173-4d53-8fd3-a33907756fe2.md  0%  100%  
+	    New File  		     587	61fc0f77-b3e6-4b4f-aea9-ce472fa98835.md  0%  100%  
+	    New File  		      93	712c6f51-d2a3-4333-a44c-1588cde13fb7.md  0%  100%  
+	    New File  		    1686	759d6730-6771-4be9-b635-c3130b6643da.md  0%  100%  
+	    New File  		     101	7b847723-5d25-4b57-a5c1-76a099e89d0d.md  0%  100%  
+	    New File  		    1137	878b3ffd-8c93-448c-9d94-05fc7fa5be27.md  0%  100%  
+	    New File  		      91	9430d1fb-9424-4011-b923-02b9912f4069.md  0%  100%  
+	    New File  		     103	b8c7fc51-528b-48e3-a15b-35bd0975ad8e.md  0%  100%  
+	    New File  		    1415	e69cae73-9609-4fbb-8218-3c3560bf12ce.md  0%  100%  
+	    New File  		    3453	eb462342-e0d6-4686-95e8-0ca0b186d75d.md  0%  100%  
+	    New File  		      99	f0ffe460-ab14-44f9-a039-00230f156dc9.md  0%  100%  
+	    New File  		    1880	toc.yml  0%  100%  
+	  New Dir          4	\\gendoxbuild2019\GendoxBuilds\191028.04.01\Shadow\Docsets\Future\open_specs_blog\documentation\blog\MS-OFFINTBLOGLP\MS-OFFINTBLOGLP_files\
+	    New File  		  110979	image001.png  0%  100%  
+	    New File  		   95593	image002.png  0%  100%  
+	    New File  		  102345	image003.png  0%  100%  
+	    New File  		   94981	image004.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         0         0         0         0
+   Files :        23        23         0         0         0         0
+   Bytes :   415.5 k   415.5 k         0         0         0         0
+   Times :   0:00:23   0:00:17                       0:00:00   0:00:06
+
+
+   Speed :               24703 Bytes/sec.
+   Speed :               1.413 MegaBytes/min.
+   Ended : Monday, October 28, 2019 9:30:14 PM
+
