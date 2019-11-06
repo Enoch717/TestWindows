@@ -4,12 +4,13 @@
     <Machine Id="1">GenDoxBuild</Machine>
     <Machine Id="2">PROTOGEN01</Machine>
     <Machine Id="3">GENDOXDEVBLD01</Machine>
+    <Machine Id="4">GendoxBuild2019</Machine>
   </Machines>
   <Group>
     <Name>Office Protocols</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_office" DocSetFolder="documentation" DocFolder="office_protocols" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>1/6/F/16F4E321-AA6B-4FA3-8AD3-E94C895A3C97</Id>
     <PreviewId>0ca4c877-5483-4c2f-a933-96b0855d673d</PreviewId>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
@@ -68,10 +69,10 @@
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWBDPS</Doc>
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWBHPS</Doc>
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWBPS</Doc>
-      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Current, Future">MS-PWEDPS</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWEDPS</Doc>
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWPHP</Doc>
-      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Current, Future">MS-PWVPDP</Doc>
-      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Current, Future">MS-PWVRSC</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWVPDP</Doc>
+      <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-PWVRSC</Doc>
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-QoE</Doc>
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RGSWS</Doc>
       <Doc ParentId="939e9850-c48d-464d-860e-78f8b281e7bd" Branches="Published, Future">MS-RTASPF</Doc>
@@ -532,7 +533,7 @@
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFDAA</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFDPE</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WFIM</Doc>
-      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-WINERRATA</Doc>
+      <Doc ParentId="6ad4d3cc-124d-47f1-98fc-624eec47f080" Branches="Published, Current">MS-WINERRATA</Doc>
       <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Current">MS-WINPROTLP</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WINSRA</Doc>
       <Doc ParentId="e36c976a-6263-42a8-b119-7a3cc41ddd2a" Branches="Published, Current">MS-WKST</Doc>
@@ -573,7 +574,7 @@
     <Name>SharePoint Protocols</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_sharepoint" DocSetFolder="documentation" DocFolder="sharepoint_protocols" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>8/5/8/858F2155-D48D-4C68-9205-29460FD7698F</Id>
     <PreviewId>c255ffcf-2881-4bd8-876a-b297f43faf64</PreviewId>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
@@ -756,7 +757,7 @@
     <Name>Exchange Server Protocols</Name>
     <Team>Exchange</Team>
     <Repo Name="open_specs_exchange" DocSetFolder="documentation" DocFolder="exchange_server_protocols" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>5/D/D/5DD33FDF-91F5-496D-9884-0A0B0EE698BB</Id>
     <PreviewId>90b4abc7-c198-4b87-93e8-76ec03c9938d</PreviewId>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
@@ -913,8 +914,10 @@
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-ASUR</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-BINXML</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-CEPM</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-CPREST</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-DSDG</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-DSDIFFGRAM</Doc>
+      <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-HMSHTTP</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-LETSF</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-ODBCSTR</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-OLEDBSTR</Doc>
@@ -928,7 +931,7 @@
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSRMSM2006</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-RSWSSFA</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SCCSTR</Doc>
-      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-SQLERRATA</Doc>
+      <Doc ParentId="a8a80849-b1b9-4da6-872a-fae5005302e9" Branches="Published, Current">MS-SQLERRATA</Doc>
       <Doc ParentId="9a3ae8a2-02e5-4d05-874a-b3551405d8f9" Branches="Published, Current">MS-SQLPROTLP</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SQLRS</Doc>
       <Doc ParentId="3432cb95-3f91-446d-86d7-b9ea0816464e" Branches="Published, Current">MS-SSAS</Doc>
@@ -949,7 +952,7 @@
     <Name>Exchange Standards</Name>
     <Team>Exchange</Team>
     <Repo Name="open_specs_exchange" DocSetFolder="documentation" DocFolder="exchange_standards" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>9/1/D/91D015B5-C439-40E7-94F3-CBFCF2B04D49</Id>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -958,19 +961,19 @@
     <ReadMe>[[ReadmefirstMSExStand]].pdf</ReadMe>
     <Docs>
       <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Future">MS-OXSTANDLP</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOICAL</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOIMAP</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANOPOP3</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXICAL</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXIMAP</Doc>
-      <Doc ParentId="de2c147d-83de-49ac-bd3e-815e2dd691fd" Branches="Published, Future">MS-STANXPOP3</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANOICAL</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANOIMAP</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANOPOP3</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANXICAL</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANXIMAP</Doc>
+      <Doc ParentId="3c8dd289-b401-430c-a3a0-dec8028b5918" Branches="Published, Future">MS-STANXPOP3</Doc>
     </Docs>
   </Group>
   <Group>
     <Name>Office Standards</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_office" DocSetFolder="documentation" DocFolder="office_standards" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>D/3/3/D334A189-E51B-47FF-B0E8-C0479AFB0E3C</Id>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -983,6 +986,7 @@
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-DOCX</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-ODRAWXML</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OE376</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Future">MS-OEXTXML</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OFFMACRO</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OFFMACRO2</Doc>
       <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Future">MS-OFFSTANDLP</Doc>
@@ -990,6 +994,7 @@
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OODF</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OODF2</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OODF3</Doc>
+      <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Future">MS-OTASKXML</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-OWEXML</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-PPTX</Doc>
       <Doc ParentId="d5784a8b-7070-466b-befa-b7bf3724c6f0" Branches="Published, Future">MS-XLSX</Doc>
@@ -1028,14 +1033,15 @@
     <ReadMe>[[ReadmefirstOSS]].pdf</ReadMe>
     <Docs>
       <Doc ParentId="17a32be7-10b3-4025-bea4-133a66b4c689" Branches="Published, Current">MS-SQLODSTANDLP</Doc>
-      <Doc ParentId="89584d21-315b-4ae7-8a4d-cf1e8dc6e8de" Branches="Published, Current">MS-ODATAJSON</Doc>
+      <Doc ParentId="de79a6ca-f126-40a1-b78f-98676f065143" Branches="Published, Current">MS-ODATAJSON</Doc>
+      <Doc ParentId="959607ba-a762-4cd1-9076-f27a3fdc686f" Branches="Published, Current">MS-ODATAERRATA</Doc>
     </Docs>
   </Group>
   <Group>
     <Name>IE Standards</Name>
     <Team>IE</Team>
     <Repo Name="open_specs_ie" DocSetFolder="documentation" DocFolder="ie_standards" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>8/4/2/8427CF1B-08B3-4557-952D-102E7A8FA64C</Id>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/web/</AzureUrl>
@@ -1154,7 +1160,7 @@
     <Name>Office File Formats</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_office" DocSetFolder="documentation" DocFolder="office_file_formats" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id>2/4/8/24862317-78F0-4C4B-B355-C7B2C1D997DB</Id>
     <PreviewId>8299af2a-b10d-4576-915f-79e9b7416869</PreviewId>
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
@@ -1196,6 +1202,7 @@
     <Repo Name="open_specs_sql" DocSetFolder="documentation" DocFolder="sql_data_portability" />
     <MachineId>2</MachineId>
     <Id>1/7/5/175A7833-6F75-418D-8800-86D44D1D712D</Id>
+    <PreviewId>2cd2bf77-7b11-418a-800a-b16f67f128ba</PreviewId>
     <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
     <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
     <Zip>SQLServerDataPortability.zip</Zip>
@@ -1225,7 +1232,6 @@
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-DTS</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-ISPAC</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-MSL</Doc>
-      <Doc ParentId="0e8d1c2b-0f3b-4099-833b-db27f7a9dbe8" Branches="Published, Current">MS-ODATAERRATA</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-RDLRS</Doc>
       <Doc ParentId="b1c8ac25-96ca-4efb-972e-d5d105db8755" Branches="Published, Current">MS-SMDL</Doc>
       <Doc ParentId="a2bc1311-e0e7-4808-970a-4dc0a100f708" Branches="Published, Current">MS-SQLPORTLP</Doc>
@@ -1237,7 +1243,7 @@
     <Name>Microsoft General Purpose Programming Languages</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_office" DocSetFolder="documentation" DocFolder="microsoft_general_purpose_programming_languages" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1262,7 +1268,6 @@
     <Docs>
       <Doc ParentId="63bd758c-9134-4ea3-9a74-566b27e92046" Branches="Published, Current">MS-MSDLLP</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-XAML-2017</Doc>
-	  <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2019</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017-Sept</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-SLXV-5</Doc>
       <Doc ParentId="69a08c4f-e943-4729-be0d-1b33d4ad967e">MS-WPFXV-2017-July</Doc>
@@ -1281,7 +1286,7 @@
     <Name>Main Archive</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="archive" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1295,7 +1300,7 @@
     <Name>Main Computer Languages</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="computer_languages" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1309,7 +1314,7 @@
     <Name>Main Data Portability</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="data_portability" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1323,21 +1328,37 @@
     <Name>Dev Center</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="dev_center" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>true</AllowEliminateBlankPages>
     <AzureUrl>http://interoperability.blob.core.windows.net/files/</AzureUrl>
     <Zip />
     <Hxs Family="MSDN" Version="10" />
     <Docs>
+      <Doc>MS-ALGO_AUTO_1</Doc>
+      <Doc>MS-BLOC_AUTO_1</Doc>
+      <Doc>MS-CPREST-TEST</Doc>
       <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Published, Current">MS-DEVCENTLP</Doc>
+      <Doc>MS-HTTP-TEST-7</Doc>
+      <Doc>MS-HTTP_AUTO_1</Doc>
+      <Doc>MS-HTTP_AUTO_2</Doc>
+      <Doc>MS-OVER_AUTO_1</Doc>
+      <Doc>MS-PUT_CLUSTERS</Doc>
+      <Doc>MS-RPCX_AUTO_1</Doc>
+      <Doc>MS-SIMPLE</Doc>
+      <Doc>MS-SIMPLES</Doc>
+      <Doc>MS-SMPSCHMA</Doc>
+      <Doc>MS-SOAP-TEST-4</Doc>
+      <Doc>MS-SOAP_AUTO_1</Doc>
+      <Doc>MS-STAN_AUTO_1</Doc>
+      <Doc>MS-STRU_AUTO_1</Doc>
     </Docs>
   </Group>
   <Group>
     <Name>Document Programs</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="document_programs" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1351,7 +1372,7 @@
     <Name>Open Specs</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="main" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1365,7 +1386,7 @@
     <Name>Main Protocols</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="protocols" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1379,7 +1400,7 @@
     <Name>LCA Landing Pages</Name>
     <Team>LCA</Team>
     <Repo Name="open_specifications_top" DocSetFolder="documentation" DocFolder="standards_support" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>http://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1408,7 +1429,7 @@
     <Name>Office Archive</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_office" DocSetFolder="documentation" DocFolder="archive" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1422,7 +1443,7 @@
     <Name>SharePoint Archive</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_sharepoint" DocSetFolder="documentation" DocFolder="archive" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1436,7 +1457,7 @@
     <Name>Exchange Archive</Name>
     <Team>Exchange</Team>
     <Repo Name="open_specs_exchange" DocSetFolder="documentation" DocFolder="archive" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl />
@@ -1480,10 +1501,10 @@
     <Name>Office Blog</Name>
     <Team>Office</Team>
     <Repo Name="open_specs_blog" DocSetFolder="documentation" DocFolder="blog" />
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
-    <AzureUrl />
+    <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
     <Zip />
     <Hxs Family="Office" Version="12" />
     <Docs>
@@ -1497,7 +1518,7 @@
     <MachineId>2</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
-    <AzureUrl />
+    <AzureUrl>https://sqlprotocoldoc.blob.core.windows.net/productionsqlarchives/</AzureUrl>
     <Zip />
     <Hxs Family="SQL" Version="105" />
     <Docs>
@@ -1511,7 +1532,7 @@
     <MachineId>2</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
-    <AzureUrl />
+    <AzureUrl>https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/</AzureUrl>
     <Zip />
     <Hxs Family="PROT" Version="20" />
     <Docs>
@@ -1521,7 +1542,7 @@
   <Group>
     <Name>Office Internal - DO NOT USE</Name>
     <Team>Office</Team>
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1552,7 +1573,7 @@
   <Group>
     <Name>Exchange Internal - DO NOT USE</Name>
     <Team>Exchange</Team>
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1564,7 +1585,7 @@
   <Group>
     <Name>IE Internal - DO NOT USE</Name>
     <Team>IE</Team>
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1620,6 +1641,7 @@
       <Doc ParentId="00000000-0000-0000-0000-000000000001" Branches="Current">MS-HFSS</Doc>
       <Doc Branches="None">MS-HTTP160120</Doc>
       <Doc Branches="None">MS-HTTPTEST</Doc>
+      <Doc>MS-HTTPTEST07</Doc>
       <Doc Branches="None">MS-HTTPTEST3</Doc>
       <Doc Branches="None">MS-HTTPTEST4</Doc>
       <Doc Branches="None">MS-HTTPTEST5</Doc>
@@ -1642,7 +1664,7 @@
   <Group>
     <Name>Office Archive - DO NOT USE</Name>
     <Team>Office</Team>
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1663,7 +1685,7 @@
   <Group>
     <Name>Exchange Archive - DO NOT USE</Name>
     <Team>Exchange</Team>
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
@@ -1679,7 +1701,7 @@
   <Group>
     <Name>IE Archive - DO NOT USE</Name>
     <Team>IE</Team>
-    <MachineId>1</MachineId>
+    <MachineId>4</MachineId>
     <Id />
     <AllowEliminateBlankPages>false</AllowEliminateBlankPages>
     <AzureUrl>https://interoperability.blob.core.windows.net/files/</AzureUrl>
