@@ -9451,6 +9451,7 @@
       <File Name="[MS-DTYP]-180912.pdf" Type="PDF" />
       <File Name="[MS-DTYP]-180912.docx" Type="DOCX" />
       <File Name="[MS-DTYP]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-DTYP]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-DVRD">
@@ -27674,6 +27675,7 @@
       <File Name="[MS-SMB2]-190923.pdf" Type="PDF" />
       <File Name="[MS-SMB2]-190923.docx" Type="DOCX" />
       <File Name="[MS-SMB2]-190923-diff.pdf" Type="Diff" />
+      <File Name="[MS-SMB2]-190923-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-SMBD">
@@ -27730,6 +27732,7 @@
       <File Name="[MS-SMBD]-180912.pdf" Type="PDF" />
       <File Name="[MS-SMBD]-180912.docx" Type="DOCX" />
       <File Name="[MS-SMBD]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-SMBD]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-SMTPNTLM">
@@ -34232,6 +34235,7 @@
       <File Name="[MS-WSUSAR]-180912.pdf" Type="PDF" />
       <File Name="[MS-WSUSAR]-180912.docx" Type="DOCX" />
       <File Name="[MS-WSUSAR]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-WSUSAR]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-WSUSOD">
