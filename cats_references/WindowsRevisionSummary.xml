@@ -3041,6 +3041,7 @@
       <File Name="[MS-ADFSWAP]-180912.pdf" Type="PDF" />
       <File Name="[MS-ADFSWAP]-180912.docx" Type="DOCX" />
       <File Name="[MS-ADFSWAP]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-ADFSWAP]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-ADLS">
@@ -11092,6 +11093,7 @@
       <File Name="[MS-FSCC]-190923.pdf" Type="PDF" />
       <File Name="[MS-FSCC]-190923.docx" Type="DOCX" />
       <File Name="[MS-FSCC]-190923-diff.pdf" Type="Diff" />
+      <File Name="[MS-FSCC]-190923-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-FSMOD">
@@ -29140,6 +29142,11 @@
       <File Name="[MS-TDS]-191016.pdf" Type="PDF" />
       <File Name="[MS-TDS]-191016.docx" Type="DOCX" />
       <File Name="[MS-TDS]-191016-diff.pdf" Type="Diff" />
+    </Revision>
+    <Revision Date="2019-11-01" Version="28.0" Class="Major">
+      <File Name="[MS-TDS]-191101.pdf" Type="PDF" />
+      <File Name="[MS-TDS]-191101.docx" Type="DOCX" />
+      <File Name="[MS-TDS]-191101-diff.pdf" Type="Diff" />
     </Revision>
   </Book>
   <Book Name="MS-THCH">
