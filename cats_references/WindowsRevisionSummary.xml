@@ -1658,6 +1658,7 @@
       <File Name="[MC-NBFX]-190313.pdf" Type="PDF" />
       <File Name="[MC-NBFX]-190313.docx" Type="DOCX" />
       <File Name="[MC-NBFX]-190313-diff.pdf" Type="Diff" />
+      <File Name="[MC-NBFX]-190313-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MC-NETCEX">
@@ -31915,9 +31916,9 @@
       <File Name="[MS-WINERRATA]-190819.pdf" Type="PDF" />
       <File Name="[MS-WINERRATA]-190819.docx" Type="DOCX" />
     </Revision>
-    <Revision Date="2019-10-16" Version="1.0" Class="None">
-      <File Name="[MS-WINERRATA]-191016.pdf" Type="PDF" />
-      <File Name="[MS-WINERRATA]-191016.docx" Type="DOCX" />
+    <Revision Date="2019-12-09" Version="1.0" Class="None">
+      <File Name="[MS-WINERRATA]-191209.pdf" Type="PDF" />
+      <File Name="[MS-WINERRATA]-191209.docx" Type="DOCX" />
     </Revision>
   </Book>
   <Book Name="MS-WININTBLOGLP">
@@ -31925,7 +31926,7 @@
     <Revision Date="2019-04-01" Version="1.0" Class="None" />
     <Revision Date="2019-08-05" Version="1.0" Class="None" />
     <Revision Date="2019-08-19" Version="1.0" Class="None" />
-    <Revision Date="2019-09-23" Version="1.0" Class="None" />
+    <Revision Date="2019-12-09" Version="1.0" Class="None" />
   </Book>
   <Book Name="MS-WINPROTLP">
     <Revision Date="2015-06-30" Version="1.0" Class="New" />
