@@ -6198,6 +6198,7 @@
       <File Name="[MS-CRTD]-180912.pdf" Type="PDF" />
       <File Name="[MS-CRTD]-180912.docx" Type="DOCX" />
       <File Name="[MS-CRTD]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-CRTD]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-CSRA">
@@ -7160,6 +7161,7 @@
       <File Name="[MS-DHCPE]-180912.pdf" Type="PDF" />
       <File Name="[MS-DHCPE]-180912.docx" Type="DOCX" />
       <File Name="[MS-DHCPE]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-DHCPE]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-DHCPF">
@@ -17954,6 +17956,7 @@
       <File Name="[MS-NLMP]-190923.pdf" Type="PDF" />
       <File Name="[MS-NLMP]-190923.docx" Type="DOCX" />
       <File Name="[MS-NLMP]-190923-diff.pdf" Type="Diff" />
+      <File Name="[MS-NLMP]-190923-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-NMFMB">
@@ -29148,6 +29151,7 @@
       <File Name="[MS-TDS]-191101.pdf" Type="PDF" />
       <File Name="[MS-TDS]-191101.docx" Type="DOCX" />
       <File Name="[MS-TDS]-191101-diff.pdf" Type="Diff" />
+      <File Name="[MS-TDS]-191101-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-THCH">
@@ -31116,6 +31120,7 @@
       <File Name="[MS-WCCE]-180912.pdf" Type="PDF" />
       <File Name="[MS-WCCE]-180912.docx" Type="DOCX" />
       <File Name="[MS-WCCE]-180912-diff.pdf" Type="Diff" />
+      <File Name="[MS-WCCE]-180912-errata.pdf" Type="Errata" />
     </Revision>
   </Book>
   <Book Name="MS-WCFESAN">
